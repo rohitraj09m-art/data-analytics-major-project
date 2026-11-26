@@ -1,0 +1,696 @@
+"Category Name","Order Region",total_sales,total_orders
+Accessories,Canada,1149.5400000000002,14
+Accessories,Caribbean,5497.799999999996,74
+Accessories,"Central Africa",1699.3200000000004,20
+Accessories,"Central America",20516.78999999999,277
+Accessories,"Central Asia",849.6600000000001,10
+Accessories,"East Africa",1649.3400000000004,20
+Accessories,"East Of Usa",5922.629999999998,78
+Accessories,"Eastern Asia",4748.099999999996,62
+Accessories,"Eastern Europe",4098.359999999998,50
+Accessories,"North Africa",3498.5999999999985,41
+Accessories,"Northern Europe",4323.269999999997,58
+Accessories,Oceania,7546.97999999999,101
+Accessories,"South America",11245.499999999976,149
+Accessories,"South Asia",6447.419999999997,80
+Accessories,"South Of Usa",3348.659999999999,44
+Accessories,"Southeast Asia",7671.929999999991,103
+Accessories,"Southern Africa",1474.4100000000003,16
+Accessories,"Southern Europe",5672.729999999996,70
+Accessories,"Us Center",5897.639999999994,87
+Accessories,"West Africa",3223.709999999999,44
+Accessories,"West Asia",5922.6299999999965,81
+Accessories,"West Of Usa",7422.029999999995,92
+Accessories,"Western Europe",13844.45999999997,182
+"As Seen On Tv!",Caribbean,99.99,1
+"As Seen On Tv!","Central America",5299.469999999999,15
+"As Seen On Tv!","Northern Europe",3899.6099999999997,11
+"As Seen On Tv!","South America",2199.7799999999997,10
+"As Seen On Tv!","Southern Europe",2699.7300000000005,10
+"As Seen On Tv!","Western Europe",6399.359999999998,21
+Baby,"Eastern Asia",2185.959999999999,37
+Baby,"Northern Europe",1122.5200000000002,19
+Baby,Oceania,2008.7199999999991,34
+Baby,"South Asia",945.2800000000002,16
+Baby,"Southeast Asia",2245.039999999999,38
+Baby,"Southern Europe",1654.2399999999996,28
+Baby,"Western Europe",2067.7999999999993,35
+"Baseball & Softball",Canada,104.97,1
+"Baseball & Softball",Caribbean,5248.999999999998,33
+"Baseball & Softball","Central Africa",1304.72,8
+"Baseball & Softball","Central America",15722.099999999975,109
+"Baseball & Softball","East Africa",1109.79,7
+"Baseball & Softball","East Of Usa",4759.039999999998,28
+"Baseball & Softball","Eastern Asia",2934.3399999999997,23
+"Baseball & Softball","Eastern Europe",2209.54,16
+"Baseball & Softball","North Africa",2589.5099999999998,14
+"Baseball & Softball","Northern Europe",4014.3099999999986,24
+"Baseball & Softball",Oceania,5453.819999999997,38
+"Baseball & Softball","South America",8968.429999999993,61
+"Baseball & Softball","South Asia",3724.1999999999985,23
+"Baseball & Softball","South Of Usa",2319.4799999999996,18
+"Baseball & Softball","Southeast Asia",3844.2299999999987,27
+"Baseball & Softball","Southern Africa",1124.75,7
+"Baseball & Softball","Southern Europe",4164.409999999999,30
+"Baseball & Softball","Us Center",4414.109999999999,25
+"Baseball & Softball","West Africa",1929.5700000000002,12
+"Baseball & Softball","West Asia",2469.43,19
+"Baseball & Softball","West Of Usa",3819.229999999998,29
+"Baseball & Softball","Western Europe",11828.16999999999,76
+Basketball,"Northern Europe",3699.8999999999987,9
+Basketball,"Southern Europe",3599.879999999999,12
+Basketball,"Western Europe",19799.550000000003,43
+Books,"Eastern Asia",621.5999999999999,20
+Books,"Northern Europe",1616.159999999999,52
+Books,Oceania,870.2400000000002,28
+Books,"South Asia",466.1999999999998,15
+Books,"Southeast Asia",1056.7200000000003,34
+Books,"Southern Europe",1367.5199999999995,44
+Books,"Western Europe",6588.959999999987,212
+"Boxing & Mma",Canada,769.5799999999999,4
+"Boxing & Mma",Caribbean,4893.53,19
+"Boxing & Mma","Central Africa",824.55,6
+"Boxing & Mma","Central America",13980.26,66
+"Boxing & Mma","Central Asia",384.78999999999996,2
+"Boxing & Mma","East Africa",604.67,4
+"Boxing & Mma","East Of Usa",3133.29,19
+"Boxing & Mma","Eastern Asia",2528.6199999999994,16
+"Boxing & Mma","Eastern Europe",2253.77,11
+"Boxing & Mma","North Africa",1814.0100000000002,9
+"Boxing & Mma","Northern Europe",7628.499999999998,29
+"Boxing & Mma",Oceania,2033.89,11
+"Boxing & Mma","South America",9107.619999999995,41
+"Boxing & Mma","South Asia",2033.89,13
+"Boxing & Mma","South Of Usa",1154.3700000000001,8
+"Boxing & Mma","Southeast Asia",1704.0700000000004,15
+"Boxing & Mma","Southern Africa",659.64,4
+"Boxing & Mma","Southern Europe",6848.370000000001,31
+"Boxing & Mma","Us Center",1209.3400000000001,9
+"Boxing & Mma","West Africa",1319.28,8
+"Boxing & Mma","West Asia",2088.8600000000006,14
+"Boxing & Mma","West Of Usa",2308.7400000000007,14
+"Boxing & Mma","Western Europe",15921.769999999991,68
+Cameras,"Northern Europe",61929.4800000001,137
+Cameras,Oceania,904.08,2
+Cameras,"South Asia",1356.1200000000001,3
+Cameras,"Southeast Asia",5424.4800000000005,12
+Cameras,"Southern Europe",53340.72000000008,118
+Cameras,"Western Europe",144652.79999999944,320
+"Camping & Hiking",Canada,24298.379999999972,70
+"Camping & Hiking",Caribbean,198286.78000000177,591
+"Camping & Hiking","Central Africa",38097.460000000014,111
+"Camping & Hiking","Central America",696553.559999977,2085
+"Camping & Hiking","Central Asia",11699.21999999999,35
+"Camping & Hiking","East Africa",42897.140000000065,130
+"Camping & Hiking","East Of Usa",170088.6600000008,511
+"Camping & Hiking","Eastern Asia",132891.1399999995,395
+"Camping & Hiking","Eastern Europe",95393.6399999999,279
+"Camping & Hiking","North Africa",69895.34000000024,206
+"Camping & Hiking","Northern Europe",236684.22000000312,704
+"Camping & Hiking",Oceania,209686.02000000217,634
+"Camping & Hiking","South America",364775.6799999976,1099
+"Camping & Hiking","South Asia",161089.26000000047,482
+"Camping & Hiking","South Of Usa",97793.47999999986,293
+"Camping & Hiking","Southeast Asia",183587.76000000126,546
+"Camping & Hiking","Southern Africa",27298.179999999968,80
+"Camping & Hiking","Southern Europe",211485.90000000224,625
+"Camping & Hiking","Us Center",139490.69999999972,419
+"Camping & Hiking","West Africa",86994.20000000001,260
+"Camping & Hiking","West Asia",139790.67999999973,426
+"Camping & Hiking","West Of Usa",184187.72000000128,546
+"Camping & Hiking","Western Europe",593960.3999999834,1770
+"Cardio Equipment",Canada,24587.55,68
+"Cardio Equipment",Caribbean,185151.63000000064,585
+"Cardio Equipment","Central Africa",34596.570000000014,109
+"Cardio Equipment","Central America",607819.619999991,1857
+"Cardio Equipment","Central Asia",9919.019999999993,36
+"Cardio Equipment","East Africa",50005.049999999996,129
+"Cardio Equipment","East Of Usa",148525.2600000004,445
+"Cardio Equipment","Eastern Asia",127367.37000000026,401
+"Cardio Equipment","Eastern Europe",84821.61000000004,256
+"Cardio Equipment","North Africa",68433.20999999993,214
+"Cardio Equipment","Northern Europe",204769.59000000026,620
+"Cardio Equipment",Oceania,195310.59000000046,604
+"Cardio Equipment","South America",321148.1999999995,976
+"Cardio Equipment","South Asia",136736.4300000003,437
+"Cardio Equipment","South Of Usa",82221.84000000003,261
+"Cardio Equipment","Southeast Asia",159534.18000000028,488
+"Cardio Equipment","Southern Africa",26367.390000000007,79
+"Cardio Equipment","Southern Europe",184671.63000000038,581
+"Cardio Equipment","Us Center",112298.82000000012,338
+"Cardio Equipment","West Africa",77772.27000000008,237
+"Cardio Equipment","West Asia",122627.85000000028,393
+"Cardio Equipment","West Of Usa",166953.48000000042,512
+"Cardio Equipment","Western Europe",562804.0799999941,1728
+Cds,"Eastern Asia",395.15000000000015,35
+Cds,"Northern Europe",349.99000000000007,31
+Cds,Oceania,541.9200000000003,48
+Cds,"South Asia",270.9599999999999,24
+Cds,"Southeast Asia",349.99000000000007,31
+Cds,"Southern Europe",383.8600000000001,34
+Cds,"Western Europe",767.7199999999996,68
+"Children's Clothing","Eastern Asia",7856.2000000000035,22
+"Children's Clothing","Northern Europe",35709.999999999935,100
+"Children's Clothing",Oceania,7142.000000000003,20
+"Children's Clothing","South Asia",7499.100000000003,21
+"Children's Clothing","Southeast Asia",23925.69999999998,67
+"Children's Clothing","Southern Europe",37495.49999999993,105
+"Children's Clothing","Western Europe",113200.7000000006,317
+Cleats,Canada,25675.72000000001,122
+Cleats,Caribbean,218543.57000000097,1000
+Cleats,"Central Africa",41273.12000000004,207
+Cleats,"Central America",729418.4099999642,3358
+Cleats,"Central Asia",15117.479999999985,65
+Cleats,"East Africa",49971.66999999998,224
+Cleats,"East Of Usa",170011.66000000064,784
+Cleats,"Eastern Asia",144995.83000000037,681
+Cleats,"Eastern Europe",104322.61,462
+Cleats,"North Africa",88065.31999999993,395
+Cleats,"Northern Europe",238820.39000000095,1074
+Cleats,Oceania,221843.02000000098,1030
+Cleats,"South America",364259.279999999,1699
+Cleats,"South Asia",170971.5000000005,773
+Cleats,"South Of Usa",103542.74000000031,480
+Cleats,"Southeast Asia",203966.0000000006,947
+Cleats,"Southern Africa",25735.710000000006,129
+Cleats,"Southern Europe",221543.39000000132,1035
+Cleats,"Us Center",156393.93000000058,691
+Cleats,"West Africa",93164.47000000009,421
+Cleats,"West Asia",160053.3200000005,715
+Cleats,"West Of Usa",218723.54000000106,1003
+Cleats,"Western Europe",664030.2299999722,3086
+Computers,"Eastern Asia",48000,32
+Computers,"Northern Europe",111000,74
+Computers,Oceania,16500,11
+Computers,"South Asia",21000,14
+Computers,"Southeast Asia",52500,35
+Computers,"Southern Europe",109500,73
+Computers,"Western Europe",304500,203
+"Consumer Electronics","Eastern Asia",4804.720000000001,19
+"Consumer Electronics","Northern Europe",14161.279999999984,56
+"Consumer Electronics",Oceania,9609.439999999999,38
+"Consumer Electronics","South Asia",8092.160000000003,32
+"Consumer Electronics","Southeast Asia",14414.159999999983,57
+"Consumer Electronics","Southern Europe",18713.119999999988,74
+"Consumer Electronics","Western Europe",39196.39999999998,155
+Crafts,"Eastern Asia",29073.239999999976,63
+Crafts,"Northern Europe",28150.279999999977,61
+Crafts,Oceania,24919.91999999998,54
+Crafts,"South Asia",29534.719999999976,64
+Crafts,"Southeast Asia",33226.559999999976,72
+Crafts,"Southern Europe",20766.599999999984,45
+Crafts,"Western Europe",57685.000000000146,125
+Dvds,"Eastern Asia",9534.039999999997,58
+Dvds,"Northern Europe",9698.419999999996,59
+Dvds,Oceania,14465.439999999973,88
+Dvds,"South Asia",7561.480000000004,46
+Dvds,"Southeast Asia",12492.879999999983,76
+Dvds,"Southern Europe",6410.820000000003,39
+Dvds,"Western Europe",19232.45999999998,117
+Electronics,Canada,2451.37,22
+Electronics,Caribbean,17211.649999999972,141
+Electronics,"Central Africa",3890.969999999999,32
+Electronics,"Central America",58194.41999999996,479
+Electronics,"Central Asia",1423.66,12
+Electronics,"East Africa",4494.919999999997,37
+Electronics,"East Of Usa",17103.65999999998,135
+Electronics,"Eastern Asia",14602.149999999976,118
+Electronics,"Eastern Europe",11746.989999999985,94
+Electronics,"North Africa",9896.49999999999,78
+Electronics,"Northern Europe",13060.619999999979,115
+Electronics,Oceania,21929.349999999984,193
+Electronics,"South America",31124.240000000045,251
+Electronics,"South Asia",19293.99999999999,151
+Electronics,"South Of Usa",10654.249999999987,94
+Electronics,"Southeast Asia",22684.219999999994,198
+Electronics,"Southern Africa",3278.1899999999987,26
+Electronics,"Southern Europe",12805.649999999989,98
+Electronics,"Us Center",13594.57999999998,117
+Electronics,"West Africa",8695.839999999991,69
+Electronics,"West Asia",14494.339999999987,116
+Electronics,"West Of Usa",19969.849999999984,168
+Electronics,"Western Europe",38433.21999999998,317
+Fishing,Canada,27598.619999999977,60
+Fishing,Caribbean,330783.4599999998,721
+Fishing,"Central Africa",66796.66000000022,147
+Fishing,"Central America",1127543.6199999629,2480
+Fishing,"Central Asia",25598.71999999998,55
+Fishing,"East Africa",79196.0400000001,167
+Fishing,"East Of Usa",281985.90000000206,620
+Fishing,"Eastern Asia",222388.88000000195,489
+Fishing,"Eastern Europe",151192.4400000001,338
+Fishing,"North Africa",127593.6199999996,278
+Fishing,"Northern Europe",367181.6399999981,798
+Fishing,Oceania,329583.51999999984,726
+Fishing,"South America",573571.3199999885,1251
+Fishing,"South Asia",246387.68000000258,538
+Fishing,"South Of Usa",152392.38000000012,326
+Fishing,"Southeast Asia",295585.2200000014,643
+Fishing,"Southern Africa",49597.520000000106,109
+Fishing,"Southern Europe",363981.79999999824,804
+Fishing,"Us Center",237588.12000000235,513
+Fishing,"West Africa",149592.52000000005,331
+Fishing,"West Asia",237188.14000000234,511
+Fishing,"West Of Usa",325183.74000000005,710
+Fishing,"Western Europe",1042347.8799999667,2302
+"Fitness Accessories",Canada,279.92,3
+"Fitness Accessories",Caribbean,1609.5400000000002,17
+"Fitness Accessories","Central Africa",174.95,2
+"Fitness Accessories","Central America",4233.789999999997,42
+"Fitness Accessories","East Africa",139.96,1
+"Fitness Accessories","East Of Usa",1049.7,10
+"Fitness Accessories","Eastern Asia",1399.6000000000001,16
+"Fitness Accessories","Eastern Europe",594.83,5
+"Fitness Accessories","North Africa",769.7800000000001,8
+"Fitness Accessories","Northern Europe",3269.5499999999997,16
+"Fitness Accessories",Oceania,1364.6100000000001,19
+"Fitness Accessories","South America",2554.27,26
+"Fitness Accessories","South Asia",1259.64,15
+"Fitness Accessories","South Of Usa",874.75,7
+"Fitness Accessories","Southeast Asia",1294.63,16
+"Fitness Accessories","Southern Africa",104.97,2
+"Fitness Accessories","Southern Europe",1829.8000000000002,7
+"Fitness Accessories","Us Center",1469.5800000000002,14
+"Fitness Accessories","West Africa",1469.5800000000002,11
+"Fitness Accessories","West Asia",1749.5000000000002,16
+"Fitness Accessories","West Of Usa",1784.4900000000002,18
+"Fitness Accessories","Western Europe",6323.999999999998,36
+Garden,"Eastern Asia",81484.74000000021,153
+Garden,Oceania,63377.02000000015,119
+Garden,"South Asia",45801.88000000009,86
+Garden,"Southeast Asia",67105.08000000016,126
+"Girls' Apparel",Canada,1329.9,10
+"Girls' Apparel",Caribbean,7839.589999999997,62
+"Girls' Apparel","Central Africa",2459.84,17
+"Girls' Apparel","Central America",24223.51,186
+"Girls' Apparel","Central Asia",504.97,6
+"Girls' Apparel","East Africa",375,6
+"Girls' Apparel","East Of Usa",6284.799999999999,59
+"Girls' Apparel","Eastern Asia",6744.729999999999,52
+"Girls' Apparel","Eastern Europe",4169.739999999999,32
+"Girls' Apparel","North Africa",2069.88,17
+"Girls' Apparel","Northern Europe",6329.619999999999,55
+"Girls' Apparel",Oceania,8149.66,57
+"Girls' Apparel","South America",12649.249999999995,97
+"Girls' Apparel","South Asia",8209.669999999998,55
+"Girls' Apparel","South Of Usa",4679.69,34
+"Girls' Apparel","Southeast Asia",8619.659999999998,71
+"Girls' Apparel","Southern Africa",1964.93,11
+"Girls' Apparel","Southern Europe",4914.5599999999995,39
+"Girls' Apparel","Us Center",6159.529999999999,49
+"Girls' Apparel","West Africa",3244.9500000000003,27
+"Girls' Apparel","West Asia",5504.609999999999,48
+"Girls' Apparel","West Of Usa",9179.41,71
+"Girls' Apparel","Western Europe",16098.699999999992,130
+"Golf Apparel",Canada,79.96,2
+"Golf Apparel",Caribbean,1759.3800000000003,25
+"Golf Apparel","Central Africa",119.94,2
+"Golf Apparel","Central America",6078.479999999992,74
+"Golf Apparel","Central Asia",79.96,1
+"Golf Apparel","East Africa",219.89,4
+"Golf Apparel","East Of Usa",1319.3400000000004,22
+"Golf Apparel","Eastern Asia",599.7,12
+"Golf Apparel","Eastern Europe",339.83000000000004,6
+"Golf Apparel","North Africa",619.6899999999999,10
+"Golf Apparel","Northern Europe",3429.5499999999984,30
+"Golf Apparel",Oceania,819.59,16
+"Golf Apparel","South America",3109.3899999999985,34
+"Golf Apparel","South Asia",759.6200000000001,14
+"Golf Apparel","South Of Usa",339.83,5
+"Golf Apparel","Southeast Asia",979.5100000000002,15
+"Golf Apparel","Southern Africa",139.93,2
+"Golf Apparel","Southern Europe",2279.5299999999997,27
+"Golf Apparel","Us Center",719.6400000000001,12
+"Golf Apparel","West Africa",759.6200000000002,12
+"Golf Apparel","West Asia",699.65,12
+"Golf Apparel","West Of Usa",1119.4400000000003,15
+"Golf Apparel","Western Europe",8598.279999999988,88
+"Golf Bags & Carts",Caribbean,169.99,1
+"Golf Bags & Carts","Central America",2379.8599999999997,14
+"Golf Bags & Carts","Northern Europe",679.96,4
+"Golf Bags & Carts","South America",1699.9,10
+"Golf Bags & Carts","Southern Europe",1699.9,10
+"Golf Bags & Carts","Western Europe",3739.779999999998,22
+"Golf Balls",Canada,573.6500000000001,11
+"Golf Balls",Caribbean,3661.9399999999964,70
+"Golf Balls","Central Africa",779.5700000000002,15
+"Golf Balls","Central America",12343.989999999965,230
+"Golf Balls","Central Asia",29.98,2
+"Golf Balls","East Africa",987.4700000000003,17
+"Golf Balls","East Of Usa",2805.3899999999985,56
+"Golf Balls","Eastern Asia",3919.7799999999966,71
+"Golf Balls","Eastern Europe",2355.6600000000003,46
+"Golf Balls","North Africa",1976.8900000000008,36
+"Golf Balls","Northern Europe",1602.0900000000006,35
+"Golf Balls",Oceania,4806.269999999995,94
+"Golf Balls","South America",7137.9499999999925,123
+"Golf Balls","South Asia",3978.8499999999967,74
+"Golf Balls","South Of Usa",1828.9400000000005,36
+"Golf Balls","Southeast Asia",3629.8999999999965,68
+"Golf Balls","Southern Africa",499.7,10
+"Golf Balls","Southern Europe",3772.8599999999974,64
+"Golf Balls","Us Center",3689.859999999997,69
+"Golf Balls","West Africa",2278.71,41
+"Golf Balls","West Asia",3102.229999999999,63
+"Golf Balls","West Of Usa",3384.0299999999984,65
+"Golf Balls","Western Europe",7952.449999999989,148
+"Golf Gloves",Canada,439.83,5
+"Golf Gloves",Caribbean,5913.209999999997,57
+"Golf Gloves","Central Africa",424.83,7
+"Golf Gloves","Central America",18490.579999999984,159
+"Golf Gloves","Central Asia",394.86,4
+"Golf Gloves","East Africa",389.82000000000005,7
+"Golf Gloves","East Of Usa",2418.9900000000002,30
+"Golf Gloves","Eastern Asia",3473.4899999999975,49
+"Golf Gloves","Eastern Europe",1489.4100000000003,23
+"Golf Gloves","North Africa",984.5700000000002,15
+"Golf Gloves","Northern Europe",11253.589999999993,66
+"Golf Gloves",Oceania,4418.429999999998,51
+"Golf Gloves","South America",12436.749999999987,113
+"Golf Gloves","South Asia",3758.5199999999977,53
+"Golf Gloves","South Of Usa",2349.21,22
+"Golf Gloves","Southeast Asia",2748.959999999999,34
+"Golf Gloves","Southern Africa",634.8,7
+"Golf Gloves","Southern Europe",9038.709999999995,51
+"Golf Gloves","Us Center",2688.899999999999,35
+"Golf Gloves","West Africa",1814.1900000000005,28
+"Golf Gloves","West Asia",2708.939999999999,39
+"Golf Gloves","West Of Usa",3873.389999999998,57
+"Golf Gloves","Western Europe",24551.410000000018,152
+"Golf Shoes",Canada,650,3
+"Golf Shoes",Caribbean,4126,23
+"Golf Shoes","Central Africa",1365,7
+"Golf Shoes","Central America",20668,108
+"Golf Shoes","East Africa",390,2
+"Golf Shoes","East Of Usa",4355,17
+"Golf Shoes","Eastern Asia",2210,11
+"Golf Shoes","Eastern Europe",455,4
+"Golf Shoes","North Africa",1625,8
+"Golf Shoes","Northern Europe",8120,35
+"Golf Shoes",Oceania,1950,9
+"Golf Shoes","South America",12275,56
+"Golf Shoes","South Asia",4355,19
+"Golf Shoes","South Of Usa",2080,11
+"Golf Shoes","Southeast Asia",1950,11
+"Golf Shoes","Southern Africa",325,2
+"Golf Shoes","Southern Europe",8302,34
+"Golf Shoes","Us Center",2535,14
+"Golf Shoes","West Africa",1365,8
+"Golf Shoes","West Asia",2535,13
+"Golf Shoes","West Of Usa",2730,16
+"Golf Shoes","Western Europe",23632,112
+"Health And Beauty","Eastern Asia",24322.320000000047,83
+"Health And Beauty",Oceania,22271.04000000004,76
+"Health And Beauty","South Asia",25494.48000000005,87
+"Health And Beauty","Southeast Asia",33992.64000000007,116
+Hockey,Canada,169,2
+Hockey,Caribbean,1929,29
+Hockey,"Central Africa",696,10
+Hockey,"Central America",5959,88
+Hockey,"East Africa",298,4
+Hockey,"East Of Usa",1770,25
+Hockey,"Eastern Asia",1075,16
+Hockey,"Eastern Europe",850,13
+Hockey,"North Africa",786,11
+Hockey,"Northern Europe",2397.96,21
+Hockey,Oceania,2166,37
+Hockey,"South America",3398,50
+Hockey,"South Asia",2100,26
+Hockey,"South Of Usa",1503,22
+Hockey,"Southeast Asia",2365,40
+Hockey,"Southern Africa",150,2
+Hockey,"Southern Europe",2525.9700000000003,27
+Hockey,"Us Center",1852,31
+Hockey,"West Africa",963,15
+Hockey,"West Asia",1961,30
+Hockey,"West Of Usa",2015,28
+Hockey,"Western Europe",11431.799999999997,82
+"Hunting & Shooting",Canada,119.96,2
+"Hunting & Shooting",Caribbean,3029.4,22
+"Hunting & Shooting","Central Africa",389.87,5
+"Hunting & Shooting","Central America",10432.14999999999,76
+"Hunting & Shooting","Central Asia",419.85999999999996,4
+"Hunting & Shooting","East Africa",419.86,4
+"Hunting & Shooting","East Of Usa",1799.4000000000003,21
+"Hunting & Shooting","Eastern Asia",1499.5000000000002,13
+"Hunting & Shooting","Eastern Europe",689.77,6
+"Hunting & Shooting","North Africa",509.83,5
+"Hunting & Shooting","Northern Europe",5795.5099999999975,27
+"Hunting & Shooting",Oceania,1889.3700000000003,17
+"Hunting & Shooting","South America",5921.139999999998,47
+"Hunting & Shooting","South Asia",1349.5500000000002,15
+"Hunting & Shooting","South Of Usa",1019.6600000000001,8
+"Hunting & Shooting","Southeast Asia",1109.63,15
+"Hunting & Shooting","Southern Africa",149.95,1
+"Hunting & Shooting","Southern Europe",4157.499999999999,26
+"Hunting & Shooting","Us Center",719.76,8
+"Hunting & Shooting","West Africa",899.7000000000002,11
+"Hunting & Shooting","West Asia",1289.5700000000002,16
+"Hunting & Shooting","West Of Usa",1139.6200000000001,12
+"Hunting & Shooting","Western Europe",12097.859999999988,75
+"Indoor/Outdoor Games",Canada,16693.319999999985,93
+"Indoor/Outdoor Games",Caribbean,142642.91999999998,821
+"Indoor/Outdoor Games","Central Africa",27538.97999999992,165
+"Indoor/Outdoor Games","Central America",487504.92000000604,2789
+"Indoor/Outdoor Games","Central Asia",10045.97999999999,57
+"Indoor/Outdoor Games","East Africa",32337.05999999994,179
+"Indoor/Outdoor Games","East Of Usa",111805.25999999986,649
+"Indoor/Outdoor Games","Eastern Asia",106257.47999999998,594
+"Indoor/Outdoor Games","Eastern Europe",73320.6600000001,409
+"Indoor/Outdoor Games","North Africa",56277.48000000006,324
+"Indoor/Outdoor Games","Northern Europe",154638.12000000026,884
+"Indoor/Outdoor Games",Oceania,147291.06000000035,857
+"Indoor/Outdoor Games","South America",251199.48000000164,1423
+"Indoor/Outdoor Games","South Asia",104408.22000000003,621
+"Indoor/Outdoor Games","South Of Usa",65273.880000000136,389
+"Indoor/Outdoor Games","Southeast Asia",137295.06000000008,780
+"Indoor/Outdoor Games","Southern Africa",18842.45999999996,111
+"Indoor/Outdoor Games","Southern Europe",148840.44000000003,851
+"Indoor/Outdoor Games","Us Center",99160.31999999998,572
+"Indoor/Outdoor Games","West Africa",63424.620000000075,362
+"Indoor/Outdoor Games","West Asia",99860.04000000011,570
+"Indoor/Outdoor Games","West Of Usa",126499.37999999995,743
+"Indoor/Outdoor Games","Western Europe",407486.94000000303,2379
+"Kids' Golf Clubs",Caribbean,3226.46,16
+"Kids' Golf Clubs","Central America",14883.310000000001,63
+"Kids' Golf Clubs","Northern Europe",12599.099999999999,51
+"Kids' Golf Clubs","South America",7719.859999999999,35
+"Kids' Golf Clubs","Southern Europe",13140.199999999992,49
+"Kids' Golf Clubs","Western Europe",47228.64999999997,159
+Lacrosse,Canada,124.95,1
+Lacrosse,Caribbean,799.6800000000001,12
+Lacrosse,"Central Africa",124.95,1
+Lacrosse,"Central America",10697.549999999992,83
+Lacrosse,"Central Asia",124.94999999999999,2
+Lacrosse,"East Africa",99.96,1
+Lacrosse,"East Of Usa",949.6200000000001,13
+Lacrosse,"Eastern Asia",1024.5900000000001,13
+Lacrosse,"Eastern Europe",599.76,10
+Lacrosse,"North Africa",724.7100000000002,10
+Lacrosse,"Northern Europe",3599.3099999999995,23
+Lacrosse,Oceania,1224.5100000000002,15
+Lacrosse,"South America",3699.179999999999,29
+Lacrosse,"South Asia",724.71,9
+Lacrosse,"South Of Usa",324.87,5
+Lacrosse,"Southeast Asia",774.69,11
+Lacrosse,"Southern Africa",49.98,1
+Lacrosse,"Southern Europe",4249.29,19
+Lacrosse,"Us Center",1049.5800000000002,13
+Lacrosse,"West Africa",749.7,10
+Lacrosse,"West Asia",724.7100000000002,8
+Lacrosse,"West Of Usa",999.6000000000001,14
+Lacrosse,"Western Europe",6023.939999999998,38
+Loading...,"Eastern Asia",27598.619999999977,61
+Loading...,Oceania,27998.599999999977,57
+Loading...,"South Asia",19199.039999999986,40
+Loading...,"Southeast Asia",36398.18,78
+"Men's Clothing","Eastern Asia",10753.35000000001,51
+"Men's Clothing",Oceania,12229.300000000012,58
+"Men's Clothing","South Asia",9488.250000000007,45
+"Men's Clothing","Southeast Asia",11385.90000000001,54
+"Men's Footwear",Canada,15598.799999999977,104
+"Men's Footwear",Caribbean,137139.45000000187,884
+"Men's Footwear","Central Africa",27167.91000000011,167
+"Men's Footwear","Central America",470303.819999978,3044
+"Men's Footwear","Central Asia",11179.139999999985,76
+"Men's Footwear","East Africa",31977.54000000017,208
+"Men's Footwear","East Of Usa",116341.0500000017,747
+"Men's Footwear","Eastern Asia",104381.97000000122,676
+"Men's Footwear","Eastern Europe",65384.96999999967,420
+"Men's Footwear","North Africa",55765.70999999982,349
+"Men's Footwear","Northern Europe",158717.79000000033,1032
+"Men's Footwear",Oceania,148318.59000000107,954
+"Men's Footwear","South America",245161.13999999413,1610
+"Men's Footwear","South Asia",113741.2500000016,738
+"Men's Footwear","South Of Usa",70064.60999999984,461
+"Men's Footwear","Southeast Asia",123100.53000000198,802
+"Men's Footwear","Southern Africa",20278.440000000024,136
+"Men's Footwear","Southern Europe",152218.2900000008,987
+"Men's Footwear","Us Center",103212.06000000118,679
+"Men's Footwear","West Africa",59535.41999999976,388
+"Men's Footwear","West Asia",104381.97000000122,685
+"Men's Footwear","West Of Usa",134669.64000000205,890
+"Men's Footwear","Western Europe",421167.5999999815,2738
+"Men's Golf Clubs",Caribbean,1969.8300000000002,13
+"Men's Golf Clubs","Central America",10669.04999999999,64
+"Men's Golf Clubs","Northern Europe",4739.579999999998,31
+"Men's Golf Clubs","South America",6469.439999999996,38
+"Men's Golf Clubs","Southern Europe",6369.429999999996,37
+"Men's Golf Clubs","Western Europe",16818.46999999998,97
+Music,"Eastern Asia",26586.300000000043,102
+Music,Oceania,32581.250000000076,125
+Music,"South Asia",25022.400000000034,96
+Music,"Southeast Asia",28932.150000000056,111
+"Pet Supplies","Eastern Asia",10971.999999999975,130
+"Pet Supplies",Oceania,12237.999999999969,145
+"Pet Supplies","South Asia",6414.399999999993,76
+"Pet Supplies","Southeast Asia",11900.39999999997,141
+"Shop By Sport",Canada,7448.219999999997,58
+"Shop By Sport",Caribbean,64434.38999999998,501
+"Shop By Sport","Central Africa",14336.54999999998,110
+"Shop By Sport","Central America",223655.58000000226,1725
+"Shop By Sport","Central Asia",3599.1599999999994,28
+"Shop By Sport","East Africa",13066.76999999998,103
+"Shop By Sport","East Of Usa",56336.31,444
+"Shop By Sport","Eastern Asia",45318.98999999999,354
+"Shop By Sport","Eastern Europe",28323.03000000002,227
+"Shop By Sport","North Africa",22184.60999999999,172
+"Shop By Sport","Northern Europe",64744.37,500
+"Shop By Sport",Oceania,63944.399999999914,499
+"Shop By Sport","South America",115662.35000000052,874
+"Shop By Sport","South Asia",53196.93000000001,402
+"Shop By Sport","South Of Usa",29422.860000000015,233
+"Shop By Sport","Southeast Asia",56006.34000000005,440
+"Shop By Sport","Southern Africa",8198.009999999993,71
+"Shop By Sport","Southern Europe",65923.86999999995,513
+"Shop By Sport","Us Center",41329.920000000006,336
+"Shop By Sport","West Africa",26843.460000000006,209
+"Shop By Sport","West Asia",42549.66000000003,343
+"Shop By Sport","West Of Usa",60285.359999999935,452
+"Shop By Sport","Western Europe",202710.880000001,1542
+Soccer,Caribbean,1549.84,10
+Soccer,"Central America",7189.179999999997,36
+Soccer,"Northern Europe",2199.7699999999995,13
+Soccer,"South America",3049.6299999999997,11
+Soccer,"Southern Europe",3424.599999999999,17
+Soccer,"Western Europe",9064.029999999993,49
+"Sporting Goods","Eastern Asia",26547.75,81
+"Sporting Goods",Oceania,29169.75,89
+"Sporting Goods","South Asia",25892.25,79
+"Sporting Goods","Southeast Asia",35397,108
+"Strength Training",Caribbean,567,3
+"Strength Training","Central America",1701,9
+"Strength Training","Northern Europe",14856.889999999998,24
+"Strength Training","South America",1134,6
+"Strength Training","Southern Europe",8544.93,12
+"Strength Training","Western Europe",28091.71000000002,57
+"Tennis & Racquet",Canada,314.93,3
+"Tennis & Racquet",Caribbean,2429.4599999999996,16
+"Tennis & Racquet","Central Africa",494.89,4
+"Tennis & Racquet","Central America",6028.659999999995,45
+"Tennis & Racquet","Central Asia",224.95,1
+"Tennis & Racquet","East Africa",224.95,1
+"Tennis & Racquet","East Of Usa",1664.63,15
+"Tennis & Racquet","Eastern Asia",1484.67,13
+"Tennis & Racquet","Eastern Europe",1034.77,8
+"Tennis & Racquet","North Africa",1349.7,10
+"Tennis & Racquet","Northern Europe",2249.5,17
+"Tennis & Racquet",Oceania,2564.4299999999994,20
+"Tennis & Racquet","South America",4364.03,29
+"Tennis & Racquet","South Asia",1709.6200000000001,13
+"Tennis & Racquet","South Of Usa",989.78,8
+"Tennis & Racquet","Southeast Asia",2519.439999999999,18
+"Tennis & Racquet","Southern Africa",314.93,2
+"Tennis & Racquet","Southern Europe",1574.65,14
+"Tennis & Racquet","Us Center",2474.4499999999994,17
+"Tennis & Racquet","West Africa",1349.7,10
+"Tennis & Racquet","West Asia",2384.47,18
+"Tennis & Racquet","West Of Usa",2969.3399999999992,18
+"Tennis & Racquet","Western Europe",3869.1399999999985,27
+Toys,"Eastern Asia",1327.0999999999979,115
+Toys,Oceania,1557.8999999999971,135
+Toys,"South Asia",923.199999999999,80
+Toys,"Southeast Asia",2296.459999999995,199
+Trade-In,Canada,373.79999999999995,8
+Trade-In,Caribbean,4112.519999999999,48
+Trade-In,"Central Africa",257.85,7
+Trade-In,"Central America",11417.909999999982,145
+Trade-In,"Central Asia",43.98,1
+Trade-In,"East Africa",401.7600000000001,8
+Trade-In,"East Of Usa",2058.9300000000007,38
+Trade-In,"Eastern Asia",2298.69,43
+Trade-In,"Eastern Europe",1093.4100000000003,18
+Trade-In,"North Africa",975.4200000000002,19
+Trade-In,"Northern Europe",4766.7599999999975,47
+Trade-In,Oceania,3314.1599999999976,62
+Trade-In,"South America",7384.9799999999905,102
+Trade-In,"South Asia",2196.8100000000004,41
+Trade-In,"South Of Usa",1029.39,19
+Trade-In,"Southeast Asia",2514.6000000000004,47
+Trade-In,"Southern Africa",583.68,11
+Trade-In,"Southern Europe",3565.1699999999987,33
+Trade-In,"Us Center",2112.810000000001,35
+Trade-In,"West Africa",1575.0900000000006,27
+Trade-In,"West Asia",2660.5199999999986,49
+Trade-In,"West Of Usa",3226.1999999999985,55
+Trade-In,"Western Europe",10757.339999999984,101
+"Video Games","Eastern Asia",8148.75,205
+"Video Games",Oceania,7473,188
+"Video Games","South Asia",7711.5,194
+"Video Games","Southeast Asia",9977.25,251
+"Water Sports",Canada,18399.08,82
+"Water Sports",Caribbean,148592.57000000068,669
+"Water Sports","Central Africa",29398.53000000009,129
+"Water Sports","Central America",513974.2999999837,2257
+"Water Sports","Central Asia",8199.589999999995,40
+"Water Sports","East Africa",35198.24000000009,155
+"Water Sports","East Of Usa",130193.49000000147,573
+"Water Sports","Eastern Asia",106794.66000000086,474
+"Water Sports","Eastern Europe",64396.779999999795,290
+"Water Sports","North Africa",61396.929999999826,273
+"Water Sports","Northern Europe",162841.91000000003,726
+"Water Sports",Oceania,152792.36000000048,668
+"Water Sports","South America",277586.1199999947,1224
+"Water Sports","South Asia",116594.17000000112,522
+"Water Sports","South Of Usa",72396.37999999996,328
+"Water Sports","Southeast Asia",136193.19000000125,602
+"Water Sports","Southern Africa",18999.050000000007,85
+"Water Sports","Southern Europe",166741.72999999984,736
+"Water Sports","Us Center",97195.14000000061,427
+"Water Sports","West Africa",67196.63999999982,301
+"Water Sports","West Asia",106594.67000000086,469
+"Water Sports","West Of Usa",145392.73000000083,644
+"Water Sports","Western Europe",474976.4299999857,2076
+"Women's Apparel",Canada,17500,100
+"Women's Apparel",Caribbean,144700,832
+"Women's Apparel","Central Africa",32650,172
+"Women's Apparel","Central America",516950,2868
+"Women's Apparel","Central Asia",10000,53
+"Women's Apparel","East Africa",29650,179
+"Women's Apparel","East Of Usa",127600,732
+"Women's Apparel","Eastern Asia",101450,597
+"Women's Apparel","Eastern Europe",72600,412
+"Women's Apparel","North Africa",54700,320
+"Women's Apparel","Northern Europe",173700,989
+"Women's Apparel",Oceania,153050,865
+"Women's Apparel","South America",283600,1596
+"Women's Apparel","South Asia",114350,652
+"Women's Apparel","South Of Usa",76550,436
+"Women's Apparel","Southeast Asia",141500,811
+"Women's Apparel","Southern Africa",20950,118
+"Women's Apparel","Southern Europe",162000,935
+"Women's Apparel","Us Center",113300,638
+"Women's Apparel","West Africa",71150,408
+"Women's Apparel","West Asia",111150,638
+"Women's Apparel","West Of Usa",143050,818
+"Women's Apparel","Western Europe",475500,2698
+"Women's Clothing","Eastern Asia",23740.199999999975,110
+"Women's Clothing",Oceania,38415.959999999955,178
+"Women's Clothing","South Asia",30430.619999999966,141
+"Women's Clothing","Southeast Asia",47696.21999999994,221
+"Women's Golf Clubs",Caribbean,2669.7799999999997,12
+"Women's Golf Clubs","Central America",8469.259999999997,40
+"Women's Golf Clubs","Northern Europe",4659.5599999999995,18
+"Women's Golf Clubs","South America",5489.499999999999,22
+"Women's Golf Clubs","Southern Europe",4919.539999999999,20
+"Women's Golf Clubs","Western Europe",18338.32999999999,69
